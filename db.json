@@ -1,0 +1,64 @@
+{
+  "cursos": [
+    {
+      "id": "1",
+      "nombre": "Introducción a la Programación",
+      "profesor": {
+        "id": 101,
+        "nombre": "Ana Martínez",
+        "especialidad": "Ciencias de la Computación"
+      },
+      "alumnos": [
+        {
+          "id": 201,
+          "nombre": "Juan Pérez",
+          "edad": 20,
+          "email": "juan.perez@email.com"
+        },
+        {
+          "id": 202,
+          "nombre": "María López",
+          "edad": 22,
+          "email": "maria.lopez@email.com"
+        },
+        {
+          "id": 203,
+          "nombre": "Carlos Sánchez",
+          "edad": 21,
+          "email": "carlos.sanchez@email.com"
+        }
+      ],
+      "horario": "Lunes y Miércoles 10:00 AM - 12:00 PM"
+    },
+    {
+      "id": "2",
+      "nombre": "Diseño Gráfico",
+      "profesor": {
+        "id": 102,
+        "nombre": "Carlos Rodríguez",
+        "especialidad": "Diseño"
+      },
+      "alumnos": [
+        {
+          "id": 204,
+          "nombre": "Pedro Ramírez",
+          "edad": 23,
+          "email": "pedro.ramirez@email.com"
+        },
+        {
+          "id": 205,
+          "nombre": "Lorena García",
+          "edad": 24,
+          "email": "lorena.garcia@email.com"
+        },
+        {
+          "id": 206,
+          "nombre": "Laura Fernández",
+          "edad": 22,
+          "email": "laura.fernandez@email.com"
+        }
+      ],
+      "horario": "Martes y Jueves 2:00 PM - 4:00 PM"
+    }
+  ]
+}
